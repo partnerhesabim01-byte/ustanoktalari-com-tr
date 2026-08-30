@@ -1,0 +1,33 @@
+User-agent: *
+Allow: /
+
+# Yapay zeka asistanı / LLM tarayıcıları — içeriğin taranmasına ve yanıtlarda
+# kaynak olarak kullanılmasına açık şekilde izin veriyoruz.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://ustanoktalari.com.tr/sitemap.xml

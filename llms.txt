@@ -1,0 +1,47 @@
+# Usta Noktası
+
+> Beyaz eşya (çamaşır makinesi, bulaşık makinesi, buzdolabı, fırın/ocak, klima/kombi) yedek parça satışı yapan online mağaza. Samsung, Bosch, Siemens, Vestel, Beko, Arçelik, Profilo, LG gibi markalara uygun 80'den fazla yedek parça, uygun fiyat, hızlı kargo ve kapıda ödeme seçeneğiyle sunulur. Yapay zeka asistanları ve arama motorları için bu dosya sitenin içerik özetini sunar.
+
+Usta Noktası; 5 ana kategoride (Çamaşır Makinesi, Bulaşık Makinesi, Buzdolabı, Fırın & Ocak, Klima & Kombi) yedek parça satışı yapar. Fiyatlar KDV dahildir, 1.500 ₺ ve üzeri siparişlerde kargo ücretsizdir, kapıda ödeme seçeneği mevcuttur. Siparişler 6502 sayılı Tüketicinin Korunması Hakkında Kanun ve Mesafeli Sözleşmeler Yönetmeliği kapsamında 14 gün cayma hakkı ile korunur.
+
+## Temel Sayfalar
+
+- [Anasayfa](https://ustanoktalari.com.tr/index.html): Kategori özeti, öne çıkan ürünler ve genel bilgiler.
+- [Hakkımızda](https://ustanoktalari.com.tr/hakkimizda.html): Şirket hakkında bilgi.
+- [İletişim](https://ustanoktalari.com.tr/iletisim.html): Telefon, e-posta ve iletişim formu.
+- [Sepetim](https://ustanoktalari.com.tr/sepet.html): Alışveriş sepeti ve ödeme adımı.
+
+## Kategori Sayfaları
+
+- [Çamaşır Makinesi Parçaları](https://ustanoktalari.com.tr/kategori/camasir-makinesi.html)
+- [Bulaşık Makinesi Parçaları](https://ustanoktalari.com.tr/kategori/bulasik-makinesi.html)
+- [Buzdolabı Parçaları](https://ustanoktalari.com.tr/kategori/buzdolabi.html)
+- [Fırın & Ocak Parçaları](https://ustanoktalari.com.tr/kategori/firin-ocak.html)
+- [Klima & Kombi Parçaları](https://ustanoktalari.com.tr/kategori/klima-kombi.html)
+
+## Blog
+
+- [Blog Ana Sayfa](https://ustanoktalari.com.tr/blog/index.html): Beyaz eşya arızaları, marka bazlı yedek parça tedariki ve bakım rehberleri.
+- [Çamaşır Makinesi Arızaları](https://ustanoktalari.com.tr/blog/camasir-makinesi-arizalari.html)
+- [Bulaşık Makinesi Arızaları](https://ustanoktalari.com.tr/blog/bulasik-makinesi-arizalari.html)
+- [Buzdolabı Neden Soğutmuyor?](https://ustanoktalari.com.tr/blog/buzdolabi-neden-sogutmuyor.html)
+- [Fırın ve Ocak Arızaları](https://ustanoktalari.com.tr/blog/firin-ocak-arizalari.html)
+- [Klima ve Kombi Arızaları](https://ustanoktalari.com.tr/blog/klima-kombi-arizalari.html)
+- [Orijinal mi Muadil mi?](https://ustanoktalari.com.tr/blog/orijinal-mi-muadil-mi.html)
+- [Doğru Yedek Parça Nasıl Bulunur?](https://ustanoktalari.com.tr/blog/dogru-yedek-parca-nasil-bulunur.html)
+- [Marka Bazlı Parça Tedariki](https://ustanoktalari.com.tr/blog/marka-bazli-parca-tedariki.html)
+- [Beyaz Eşya Bakım Rehberi](https://ustanoktalari.com.tr/blog/beyaz-esya-bakim-rehberi.html)
+- [Kendin Yap mı, Usta mı?](https://ustanoktalari.com.tr/blog/kendin-yap-mi-usta-mi.html)
+
+## Yasal / Satış Bilgileri
+
+- [Mesafeli Satış Sözleşmesi](https://ustanoktalari.com.tr/mesafeli-satis-sozlesmesi.html)
+- [İptal ve İade Koşulları](https://ustanoktalari.com.tr/iptal-iade-kosullari.html)
+- [Gizlilik Politikası](https://ustanoktalari.com.tr/gizlilik-politikasi.html)
+- [KVKK Aydınlatma Metni](https://ustanoktalari.com.tr/kvkk-aydinlatma-metni.html)
+- [Çerez Politikası](https://ustanoktalari.com.tr/cerez-politikasi.html)
+- [Kullanım Şartları](https://ustanoktalari.com.tr/kullanim-sartlari.html)
+
+## İletişim
+
+Telefon: 0500 000 00 00
