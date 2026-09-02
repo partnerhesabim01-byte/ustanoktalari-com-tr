@@ -6,7 +6,7 @@ Usta Noktası; 5 ana kategoride (Çamaşır Makinesi, Bulaşık Makinesi, Buzdol
 
 ## Temel Sayfalar
 
-- [Anasayfa](https://ustanoktalari.com.tr/index.html): Kategori özeti, öne çıkan ürünler ve genel bilgiler.
+- [Anasayfa](https://ustanoktalari.com.tr/): Kategori özeti, öne çıkan ürünler ve genel bilgiler.
 - [Hakkımızda](https://ustanoktalari.com.tr/hakkimizda.html): Şirket hakkında bilgi.
 - [İletişim](https://ustanoktalari.com.tr/iletisim.html): Telefon, e-posta ve iletişim formu.
 - [Sepetim](https://ustanoktalari.com.tr/sepet.html): Alışveriş sepeti ve ödeme adımı.
