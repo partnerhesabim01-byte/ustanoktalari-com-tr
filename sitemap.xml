@@ -46,6 +46,41 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://ustanoktalari.com.tr/buzdolabi-ustalari.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ustanoktalari.com.tr/camasir-makinesi-ustalari.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ustanoktalari.com.tr/bulasik-makinesi-ustalari.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ustanoktalari.com.tr/klima-ustalari.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ustanoktalari.com.tr/kombi-ustalari.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ustanoktalari.com.tr/tv-ustalari.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ustanoktalari.com.tr/kurutma-makinesi-ustalari.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://ustanoktalari.com.tr/gizlilik-politikasi.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
