@@ -425,6 +425,28 @@ h1, h2, h3, h4 { font-family: var(--font-head); font-weight: 600; text-transform
 .back-to-top.show { opacity: 1; visibility: visible; transform: translateY(0); }
 
 /* =========================================================
+   HEMEN ARA (sabit arama butonu)
+   ========================================================= */
+.call-fab {
+  position: fixed; left: 22px; bottom: 22px; z-index: 95;
+  display: flex; align-items: center; gap: 9px;
+  background: var(--red); color: #fff; text-decoration: none;
+  padding: 14px 22px 14px 17px; border-radius: 999px;
+  box-shadow: var(--shadow); font-weight: 700; font-size: .92rem;
+  transition: var(--transition);
+}
+.call-fab:hover { background: var(--red-dark); transform: translateY(-2px); }
+.call-fab svg { width: 20px; height: 20px; flex-shrink: 0; }
+.call-fab__text { white-space: nowrap; }
+@media (max-width: 520px) {
+  .call-fab {
+    left: 12px; right: 12px; bottom: 12px; justify-content: center;
+    padding: 14px; border-radius: var(--radius);
+  }
+  .back-to-top { bottom: 78px; }
+}
+
+/* =========================================================
    BLOG
    ========================================================= */
 .blog-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; }
